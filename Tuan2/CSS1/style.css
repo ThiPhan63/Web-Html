@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: linear-gradient(to right, pink, rgba(224, 90, 112, 0.792)) ;
+}
