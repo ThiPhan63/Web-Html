@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+   background-color: #294e79; 
+   height: 100px;
+   width: auto;
+   position: relative;
+}
+header img{
+    height: 100px;
+    float: left;
+}
+header h3{
+    color: white;
+    position: absolute;
+}
+
+
+.content{
+    background-color: aqua;
+    height: 500px;
+    width: auto;
+    position: relative;
+}
+.contact{
+    background-color: rgb(254, 253, 255);
+    height: 80px;
+    width: 60%;
+    position: absolute;
+    padding: 20px;
+}
+.section{
+
+    background-color: burlywood;
+    height: 500px;
+    width: 40%;
+    float: left;
+}
+.asign{
+    background-color: rgb(209, 233, 233);
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+.read{
+    background-color: chartreuse;
+    height: 500px;
+    width: 40%;
+   float: right;
+}
+
+
+footer{
+    background-color: blue;
+    height: 40px;
+    width: auto;
+}
